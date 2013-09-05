@@ -1,0 +1,13 @@
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\bin\Debug\pwrs.UI.exe.config
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\bin\Debug\pwrs.UI.exe
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\bin\Debug\pwrs.UI.pdb
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.csprojResolveAssemblyReference.cache
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\MainWindow.baml
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\MainWindow.g.cs
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\App.g.cs
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI_MarkupCompile.cache
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.g.resources
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.Properties.Resources.resources
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.csproj.GenerateResource.Cache
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.exe
+Z:\Projects\Windows\Contract\pwrs\pwrs.UI\obj\Debug\pwrs.UI.pdb

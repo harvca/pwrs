@@ -1,0 +1,14 @@
+﻿<Window x:Class="pwrs.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Password Reset" Height="177.006" Width="292.012" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="User name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtUserName" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Margin="82,14,10,0" TextChanged="txtUserName_TextChanged"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,38,0,0" Width="67"/>
+        <TextBox x:Name="txtPassword" Height="23" Margin="82,42,10,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="txtPassword_TextChanged"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="75" IsEnabled="False" Click="btnReset_Click" IsDefault="True"/>
+        <CheckBox x:Name="chkPwdChange"  Content="User must change password at next logon" Margin="29,76,13,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
